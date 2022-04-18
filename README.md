@@ -10,22 +10,22 @@ A colorado Board of Elections employee has given you the following tasts to comp
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
--Data Source: election_results.csv
--Software: Python 3.6.1 Visual Studio Code, 1.38.1
+- Data Source: election_results.csv
+- Software: Python 3.6.1 Visual Studio Code, 1.38.1
 
 ##Summary
 The analysis of the election show that:
--There were "X" votes cast in the election.
--The candidates were:
-  -Candidate 1
-  -Candidate 2
-  -Candidate 3
--The candidate results were:
-  -Candidate 1 received "x%" of the vote and "y" number of votes.
-  -Candidate 2 received "x%" of the vote and "y" number of votes.
-  -Candidate 3 received "x%" of the vote and "y" number of votes.
--The winner of the election was:
-  -Candidate (1,2,or 3), who received "x%" of the vote and "y" number of votes.
+- There were "X" votes cast in the election.
+- The candidates were:
+  - Candidate 1
+  - Candidate 2
+  - Candidate 3
+- The candidate results were:
+  - Candidate 1 received "x%" of the vote and "y" number of votes.
+  - Candidate 2 received "x%" of the vote and "y" number of votes.
+  - Candidate 3 received "x%" of the vote and "y" number of votes.
+- The winner of the election was:
+  - Candidate (1,2,or 3), who received "x%" of the vote and "y" number of votes.
   
   ## Challenge Overview
   
